@@ -1,0 +1,33 @@
+{
+    "topic": "Chemistry",
+    "level": "Beginner",
+    "totalQuestions": 4,
+    "perQuestionScore": 5,
+    "questions": [
+      {
+        "question": "What is the atomic number of Carbon?",
+        "choices": ["6", "8", "12", "14"],
+        "type": "MCQs",
+        "correctAnswer": "6"
+      },
+      {
+        "question": "Which gas is responsible for the greenhouse effect?",
+        "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "type": "MCQs",
+        "correctAnswer": "Carbon Dioxide"
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "choices": ["CO₂", "H₂O", "NaCl", "O₂"],
+        "type": "MCQs",
+        "correctAnswer": "H₂O"
+      },
+      {
+        "question": "Which element is represented by the symbol 'Fe'?",
+        "choices": ["Silver", "Iron", "Fluorine", "Gold"],
+        "type": "MCQs",
+        "correctAnswer": "Iron"
+      }
+    ]
+  }
+  

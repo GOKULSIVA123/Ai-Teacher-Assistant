@@ -1,0 +1,33 @@
+{
+    "topic": "Physics",
+    "level": "Beginner",
+    "totalQuestions": 4,
+    "perQuestionScore": 5,
+    "questions": [
+      {
+        "question": "What is the SI unit of force?",
+        "choices": ["Newton", "Joule", "Pascal", "Watt"],
+        "type": "MCQs",
+        "correctAnswer": "Newton"
+      },
+      {
+        "question": "Which law states that every action has an equal and opposite reaction?",
+        "choices": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Ohm's Law"],
+        "type": "MCQs",
+        "correctAnswer": "Newton's Third Law"
+      },
+      {
+        "question": "What is the acceleration due to gravity on Earth?",
+        "choices": ["9.8 m/s²", "8.9 m/s²", "10 m/s²", "7.5 m/s²"],
+        "type": "MCQs",
+        "correctAnswer": "9.8 m/s²"
+      },
+      {
+        "question": "Which of the following is a scalar quantity?",
+        "choices": ["Velocity", "Force", "Speed", "Acceleration"],
+        "type": "MCQs",
+        "correctAnswer": "Speed"
+      }
+    ]
+  }
+  

@@ -1,0 +1,33 @@
+{
+    "topic": "Maths",
+    "level": "Beginner",
+    "totalQuestions": 4,
+    "perQuestionScore": 5,
+    "questions": [
+      {
+        "question": "What is the value of π (pi) rounded to two decimal places?",
+        "choices": ["3.14", "3.16", "3.18", "3.12"],
+        "type": "MCQs",
+        "correctAnswer": "3.14"
+      },
+      {
+        "question": "What is the square root of 144?",
+        "choices": ["12", "14", "16", "18"],
+        "type": "MCQs",
+        "correctAnswer": "12"
+      },
+      {
+        "question": "Solve: 2x + 5 = 15",
+        "choices": ["x = 5", "x = 10", "x = 7.5", "x = 3"],
+        "type": "MCQs",
+        "correctAnswer": "x = 5"
+      },
+      {
+        "question": "What is the area of a circle with radius 7? (πr²)",
+        "choices": ["154", "144", "49", "22"],
+        "type": "MCQs",
+        "correctAnswer": "154"
+      }
+    ]
+  }
+  
