@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Ai-Teacher-Assistant/',
   plugins: [react()],
-  base:"/Ai-Teacher-Assistant"
-})
+});

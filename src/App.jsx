@@ -1,5 +1,5 @@
 import React from 'react'
-import {Route,Routes} from "react-router-dom" 
+import { Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import Navbar from './Components/Navbar';
 import Physics from './Pages/Physics';
@@ -8,10 +8,10 @@ import Maths from './Pages/Maths';
 import TeacherAssistant from './Pages/TeacherAssistant';
 import PhysicsAssistant from './Pages/PhysicsAssistant';
 import MathsAssistant from './Pages/MathsAssistant';
-import ChemistryAssistant from './ChemistryAssistant';
+import ChemistryAssistant from './Pages/ChemistryAssistant';
 function App() {
   return (
-    <>
+      <>
       <Navbar></Navbar>
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
